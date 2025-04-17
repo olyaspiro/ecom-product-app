@@ -12,7 +12,7 @@ My ProductList component takes the product list as a prop and maps through it us
 
 ProductItem Component displays product details: Name, Price, and Description, and uses props to receive data and render it dynamically.
 
-Styles have been applied to all the components accordingly for a well-styled and responsive UI.
+Styles have been applied to all the components accordingly for a well-styled and responsive UI. The app is fully responsive and adapts to different screen sizes. On smaller screens, the categories menu transforms into a hamburger menu for better usability. Users can toggle the menu to view and select categories.
 
 As a bonus, I extended my app by adding Category Filtering and Product Images:
 - Products are grouped into categories (Educational, Electronics, Stuffed Toys, Musical, Role Play).
