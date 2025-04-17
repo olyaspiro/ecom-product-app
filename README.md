@@ -1,4 +1,4 @@
-I have built a simple E-Commerce Product Listing App called 'Kids Toy Catalog' using React without using frameworks like Bootstrap, focusing on custom styling.
+I have built a simple React E-Commerce Product Listing App called 'Kids Toy Catalog' without using frameworks like Bootstrap, focusing on custom styling.
 I set up the React app by following project instructions.
 
 My project consists of three main components, following the React component hierarchy: 
