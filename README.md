@@ -15,7 +15,7 @@ ProductItem Component displays product details: Name, Price, and Description, an
 Styles have been applied to all the components accordingly for a well-styled and responsive UI.
 
 As a bonus, I extended my app by adding Category Filtering and Product Images:
-- Products are grouped into categories (e.g., Educational, Electronics, Stuffed Toys, Musical, Role Play).
+- Products are grouped into categories (Educational, Electronics, Stuffed Toys, Musical, Role Play).
 - A responsive menu allows users to filter products by category.
 - When "All" is selected, images are hidden by default, and users can click the "Show Image" button to reveal them.
 - When a specific category is selected, all images in that category are displayed automatically.
