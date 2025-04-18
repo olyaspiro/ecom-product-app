@@ -6,7 +6,7 @@ My project consists of three main components, following the React component hier
 - ProductList Component (Child of App);
 - ProductItem Component (Child of ProductList).
 
-In the App Component each product has the required attributes (id, name, price, and description). It Initializes state using useState to store a list of products, and passes the product list as props to ProductList.
+In the App Component each product has the required attributes (id, name, price, and description). It initializes state using useState to store a list of products, and passes the product list as props to ProductList.
 
 My ProductList component takes the product list as a prop and maps through it using the .map() method to iterate over products and render a ProductItem for each.
 
