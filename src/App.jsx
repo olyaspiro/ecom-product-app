@@ -118,7 +118,7 @@ const App = () => {
       image: '/chef_playset.jpg',
     },
     {
-      id: 16,
+      id: 15,
       name: 'Astronaut Costume',
       price: 35,
       description: 'Includes a space suit, helmet, and gloves for aspiring astronauts.',
